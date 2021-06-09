@@ -1,0 +1,119 @@
+
+
+/*body*/
+
+body{
+font-family:'Montserrat', sans-serif;
+/*background-color:#f5c0c0;
+*/
+}
+
+
+/*navigation*/
+
+
+
+
+/*banner*/
+.banner{
+	background-image:url("../img/couple.jpg");
+	height:70vh;
+	display:flex;
+	flex-direction:column;
+	text-align:center;
+	padding:140px;
+	}
+
+/*#para{
+	
+	padding-left:150px;
+	background-color:#f5c0c0;
+}*/
+
+.cta{
+	
+	text-align:center;
+  background-color:#000;
+padding:100px;
+font-family:'Montserrat', sans-serif;
+margin:auto;
+font-size:1.3rem;
+}
+.icon{
+	text-align:center;
+	font-size:3rem;
+	color:#ff7171;
+}
+.icon:hover{
+	
+	color:#f03861;
+}
+.container-fluid:after{
+	clear:both;
+	content:"";
+	display:block;
+	/*max-width:1200px;*/
+}
+
+
+.container-fluid {
+    width: 100%;
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+    margin-right: auto;
+    margin-left: auto;
+    padding:0;
+}
+	
+
+.row:after{
+	clear:both;
+	content:"";
+	display:block;
+}
+.box{
+	padding:100px;
+}
+.blog{
+	background-color:#ffd5cd;
+}
+.image{
+	width:100%;
+	margin-top:100px;
+    color:#efbbcf;
+  
+
+}
+
+h2{
+	margin:auto;
+	padding-top:50px;
+	
+	/*font-family: 'Recursive', sans-serif;*/
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+.pic{
+	margin:auto;
+	margin-top:50px;
+}
+.banner1{
+	background-image:url("../img/wed.png");
+	height:70vh;
+	width:100%;
+	text-align:center;
+	/*padding:100px;*/
+	color:#fff;
+	margin-top:50px;
+}
+.banner2{
+	background-image:url("../img/Rin.jpg");
+	height:30vh;
+	text-align:center;
+	font-family: 'Montserrat', sans-serif;
+}
+.icon{
+	margin-top:10px;
+	font-size:2rem;
+}
